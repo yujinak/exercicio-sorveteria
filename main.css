@@ -1,0 +1,17 @@
+header {
+  background-color: rgb(190, 225, 243);
+}
+
+#produtos {
+  padding: 40px 0;
+  background-color: aliceblue;
+}
+
+#eventos {
+  background-color: aliceblue;
+}
+
+footer {
+  padding: 20px;
+  background-color: rgb(190, 225, 243);
+}
